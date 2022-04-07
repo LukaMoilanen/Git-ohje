@@ -6,3 +6,5 @@ Git on ilmainen avoimen lähde koodin hajautettu versionhallintajärjestelmä su
   
 # Mikä on [Github](https://github.com/)
 GitHub on verkkosivusto, joka tarjoaa paikan Git-versionhallintaa käyttäville ohjelmakehitysprojekteille.
+GitHub myös tarjoaa palvelunsa ilmaiseksi julkisesti nähtävillä oleville ohjelmavarastoille
+Syyskuussa 2020 GitHubin käyttäjähaun mukaan sillä oli yli 43 miljoonaa käyttäjää[3] ja yli 100 miljoonaa ohjelmavarastoa.
