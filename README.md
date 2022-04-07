@@ -1,4 +1,4 @@
 # Git-ohje
 
-** ## Mikä on [Git](https://git-scm.com/) **
+## Mikä on [Git](https://git-scm.com/)
 
