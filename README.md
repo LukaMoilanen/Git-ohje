@@ -1,3 +1,3 @@
 # Git-ohje
 
-## Mikä on Git
+## Mikä on [Git](https://git-scm.com/)
